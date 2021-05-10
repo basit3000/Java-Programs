@@ -1,0 +1,10 @@
+this keyword returns current class instance whether it's a method or a variable.
+
+Here we are using this keyword to return the current class instance that is a.
+
+In this example, we use this keyword to return the current class instance of the constructor B with parameter a and also the variable a.
+
+The use of OOP in this is that it uses core concepts of OOP like encapsulation, abstraction and polymorphism. The use of inheritance is however not present. 
+Encapsulation which means bundling of data with methods is shown in the code by using setter and getter methods in Competition class and Team class. The use of Abstraction 
+which means hiding information usually from user is shown all over the code by using public and private data members. The use of polymorphism which means many forms is shown by 
+overloading and overriding constructors.
