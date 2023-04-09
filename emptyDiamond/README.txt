@@ -1,0 +1,1 @@
+This is a fun little program that prints out an empty diamond using nested for-loops. 

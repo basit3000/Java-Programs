@@ -1,0 +1,1 @@
+This program creates two objects from a class "Account" which uses a custom constructor and has getter() methods.

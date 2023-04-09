@@ -1,0 +1,6 @@
+Demo.class:
+This program has multiple classes and one main class(Demo class) that uses all of the classes.
+This program uses OOP concepts such as polymorphism and inheritance. It also uses method overriding.
+
+library.class:
+This program is a fun program that takes input and then uses sorting to sort based on product quantity and displays data entered by using arrays.
